@@ -1,0 +1,17 @@
+#title {
+    font-size: 25px;
+}
+
+
+#camera {
+    border: 6px black;
+    width: 400px;
+    height: 300px;
+    border-radius: 20%;
+}
+.nameOfObjects {
+    font-size: medium;
+}
+#visualização {
+    font-size: 18px;
+}
